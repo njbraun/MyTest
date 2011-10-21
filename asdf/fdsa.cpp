@@ -30,9 +30,9 @@ int main() {
   SET_INT s1;
   cout << "s1.insert(5)" << endl;
   s1.insert(5);
-  cout << "s1.insert(8)" << endl;
+  cout << "s1.insert(9)" << endl;
   s1.insert(8);
-  cout << "s1.insert(12)" << endl;
+  cout << "s1.insert(13)" << endl;
   s1.insert(12);
 
   SET_INT::iterator it;
