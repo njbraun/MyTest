@@ -3,7 +3,7 @@
 //
 //      Illustrates how to use the find function to get an iterator
 //      that points to the first element in the controlled sequence
-//      that has a particular sort key.
+//      that has a particular sort key...
 //
 // Functions:
 //
