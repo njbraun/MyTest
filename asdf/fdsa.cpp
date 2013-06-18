@@ -13,11 +13,10 @@
 //                 element exists, the iterator equals end().
 //////////////////////////////////////////////////////////////////////
 
-#pragma warning(disable:4786)
 #include <set>
 #include <iostream>
 
-using namespace std ;
+using namespace std;
 
 typedef set<int> SET_INT;
 
