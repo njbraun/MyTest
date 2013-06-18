@@ -13,7 +13,6 @@
 //                 element exists, the iterator equals end().
 //////////////////////////////////////////////////////////////////////
 
-#pragma warning(disable:4786)
 #include <set>
 #include <iostream>
 
