@@ -2,6 +2,7 @@
 class User {
 
     protected $name;
+    protected $someOtherKey;
 
     public function getName() {
         return $this->name;
