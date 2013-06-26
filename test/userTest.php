@@ -5,6 +5,7 @@ require_once "user.php";
 class UserTest extends PHPUnit_Framework_TestCase
 {
     protected $user;
+    protected $blah;
     // test the talk method
     public function testTalk() {
         $expected = "Hello world!!";
